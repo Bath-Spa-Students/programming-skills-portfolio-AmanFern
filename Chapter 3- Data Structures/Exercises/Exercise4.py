@@ -1,5 +1,9 @@
 #make a list of anyone (dead or alive) you would like to invite to a dinner party, and print the invites.
+
+#guest names
 guest_list = ["Marcus Aurelius", "MJ", "Debbie Harry"]
+
+#invitations
 print (f"""Dear Mr. {guest_list[0]}, 
        I humbly request your presence at the dinner party
        that I will be hosting next Saturday.
