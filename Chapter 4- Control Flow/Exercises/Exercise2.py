@@ -1,7 +1,6 @@
 #alien game if-else statement
 color = ("Green","Yellow","Red")
 
-
 #running if block
 alien_color = (color[0])
 if (alien_color == (color[0])):
