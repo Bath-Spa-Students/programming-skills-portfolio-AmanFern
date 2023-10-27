@@ -5,3 +5,5 @@ X
 Y
 Z
        """)
+
+print ("W \nX \nY \nZ")
